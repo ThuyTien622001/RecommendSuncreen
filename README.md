@@ -1,4 +1,4 @@
-# RecommendSuncreen
+# RECOMMENDATION SYSTEM ABOUT SUNSCREEN SHOPEE
 In this paper, we used the Suncreen dataset is collected from products on SHOPEE site. After processing, cleaning and visualizing the data, We proceed to build a recommendation system with two methods main methods: Collaborative Filtering CF and content base CB. In addition, we used the user list filter model and model for non-users data . User list filtering method for high results best. Our team's sunscreen recommendation system with hope to help users easily find the right product for the best, least time consuming but bring the best results.
 
 About project: Building a data set of suncreens from the Shopee site, using collaborative filtering and Content-based filtering.
